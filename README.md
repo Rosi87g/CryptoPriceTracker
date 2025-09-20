@@ -22,7 +22,7 @@ Make sure you have Python 3.7+ installed.
 
 Install dependencies using pip:
 
-```bash
+``bash
 pip install streamlit streamlit-autorefresh matplotlib pandas requests
 
 📦 Installation
